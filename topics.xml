@@ -3,7 +3,7 @@
     <id>https://guides.loc.gov/chronicling-america-daylight-saving</id>
     <results>
       <result>
-        <id>https://www.loc.gov/resource/sn85038411/1918-03-16/ed-1/?sp=15&q=daylight+saving+time</id>
+        <id>https://www.loc.gov/resource/sn85038411/1918-03-16/ed-1/?sp=15&amp;q=daylight+saving+time</id>
         <rel>1</rel>
         <text>
           )AYLIGHT SAVING
@@ -174,7 +174,7 @@
         </text>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn83045433/1918-03-16/ed-1/?sp=1&q=act+change+changes+Clock+daylight+daylight-saving+HOURS+law+Saving+standard+time</id>
+        <id>https://www.loc.gov/resource/sn83045433/1918-03-16/ed-1/?sp=1&amp;q=act+change+changes+Clock+daylight+daylight-saving+HOURS+law+Saving+standard+time</id>
         <rel>1</rel>
         <text>
           DAYLIGHT SAVING TIMl
@@ -289,7 +289,7 @@
         </text>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn83030431/1918-03-24/ed-1/?sp=58&q=daylight+saving+time</id>
+        <id>https://www.loc.gov/resource/sn83030431/1918-03-24/ed-1/?sp=58&amp;q=daylight+saving+time</id>
         <rel>1</rel>
         <text>
           Daylight Saving Is Simplicity Itself
@@ -431,7 +431,7 @@
         </text>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn88064305/1918-03-28/ed-1/?sp=1&q=daylight+saving+time</id>
+        <id>https://www.loc.gov/resource/sn88064305/1918-03-28/ed-1/?sp=1&amp;q=daylight+saving+time</id>
         <rel>1</rel>
         <text>
           Daylight Saving is
@@ -480,7 +480,7 @@
         </text>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn84026749/1918-03-30/ed-1/?sp=2&q=daylight+saving</id>
+        <id>https://www.loc.gov/resource/sn84026749/1918-03-30/ed-1/?sp=2&amp;q=daylight+saving</id>
         <rel>1</rel>
         <text>
           TURN YOUR ClOCK
@@ -583,7 +583,7 @@
         </text>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn87057262/1918-03-30/ed-1/?sp=7&q=daylight+saving</id>
+        <id>https://www.loc.gov/resource/sn87057262/1918-03-30/ed-1/?sp=7&amp;q=daylight+saving</id>
         <rel>1</rel>
         <text>
           TURN THE CLOCK
@@ -720,7 +720,7 @@
         </text>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn83030193/1918-03-30/ed-1/?sp=3&q=daylight+saving</id>
+        <id>https://www.loc.gov/resource/sn83030193/1918-03-30/ed-1/?sp=3&amp;q=daylight+saving</id>
         <rel>1</rel>
         <text>
           Clocks to Be Turned Ahead at
@@ -846,7 +846,7 @@
         </text>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn84026749/1918-03-31/ed-1/?sp=8&q=daylight+saving</id>
+        <id>https://www.loc.gov/resource/sn84026749/1918-03-31/ed-1/?sp=8&amp;q=daylight+saving</id>
         <rel>1</rel>
         <text>
           MASTER CLOCK AT
@@ -1029,12 +1029,12 @@
         </text>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn87057262/1918-04-01/ed-1/?sp=5&q=daylight+saving</id>
+        <id>https://www.loc.gov/resource/sn87057262/1918-04-01/ed-1/?sp=5&amp;q=daylight+saving</id>
         <rel>0</rel>
       </result>
       <!-- additional queries -->
       <result>
-        <id>https://www.loc.gov/resource/sn83045462/1918-03-31/ed-1/?sp=8&q=Daylight+saving+time+clock+standard+time</id>
+        <id>https://www.loc.gov/resource/sn83045462/1918-03-31/ed-1/?sp=8&amp;q=Daylight+saving+time+clock+standard+time</id>
         <rel>1</rel>
         <text>
           DETROIT TO IGNOKE CHANGE.
@@ -1205,11 +1205,11 @@
         </text>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn83030214/1918-03-17/ed-2/?sp=27&q=time+clock+standard+time</id>
+        <id>https://www.loc.gov/resource/sn83030214/1918-03-17/ed-2/?sp=27&amp;q=time+clock+standard+time</id>
         <rel>0</rel>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn85034235/1918-03-28/ed-1/?sp=1&q=Daylight+saving+time+clock+standard+time</id>
+        <id>https://www.loc.gov/resource/sn85034235/1918-03-28/ed-1/?sp=1&amp;q=Daylight+saving+time+clock+standard+time</id>
         <rel>1</rel>
         <text>
           Daylight Saving.
@@ -1242,11 +1242,11 @@
         </text>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn83030214/1918-03-17/ed-2/?sp=21&q=time+clock+standard+time</id>
+        <id>https://www.loc.gov/resource/sn83030214/1918-03-17/ed-2/?sp=21&amp;q=time+clock+standard+time</id>
         <rel>0</rel>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn86090528/1918-03-18/ed-1/?sp=4&q=time+clock+standard+time</id>
+        <id>https://www.loc.gov/resource/sn86090528/1918-03-18/ed-1/?sp=4&amp;q=time+clock+standard+time</id>
         <rel>0</rel>
       </result>
     </results>
@@ -1255,7 +1255,7 @@
     <id>https://guides.loc.gov/chronicling-america-ouija-board</id>
     <results>
       <result>
-        <id>https://www.loc.gov/resource/sn84028296/1886-04-29/ed-1/?sp=3&q=Ouija+Board+Planchette+Alphabet+Witch+Talking</id>
+        <id>https://www.loc.gov/resource/sn84028296/1886-04-29/ed-1/?sp=3&amp;q=Ouija+Board+Planchette+Alphabet+Witch+Talking</id>
         <rel>1</rel>
         <text>
           THE NEW TALKING BOARD.
@@ -1341,7 +1341,7 @@
         </text>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn82016373/1890-12-21/ed-1/?sp=2&q=Mysterious+Talking+Wonder+Ouija+Board+Planchette+Alphabet+Witch</id>
+        <id>https://www.loc.gov/resource/sn82016373/1890-12-21/ed-1/?sp=2&amp;q=Mysterious+Talking+Wonder+Ouija+Board+Planchette+Alphabet+Witch</id>
         <rel>1</rel>
         <text>
           WVWi Va M ft i Ml
@@ -1375,7 +1375,7 @@
         </text>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn85058396/1915-12-11/ed-1/?sp=17&q=Marvelous+Mysterious+Messages+Talking+Patience+Worth+Curran+Ouija+Board+Planchette+Alphabet+Witch</id>
+        <id>https://www.loc.gov/resource/sn85058396/1915-12-11/ed-1/?sp=17&amp;q=Marvelous+Mysterious+Messages+Talking+Patience+Worth+Curran+Ouija+Board+Planchette+Alphabet+Witch</id>
         <rel>1</rel>
         <text>
           Tho oulja board Is coming back
@@ -1491,11 +1491,11 @@
         </text>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn83030214/1915-12-12/ed-1/?sp=33&q=Patience+Worth+Curran+Spirit+Talking+Ouija+Board+Planchette+Alphabet+Witch</id>
+        <id>https://www.loc.gov/resource/sn83030214/1915-12-12/ed-1/?sp=33&amp;q=Patience+Worth+Curran+Spirit+Talking+Ouija+Board+Planchette+Alphabet+Witch</id>
         <rel>0</rel>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn96076839/1920-06-25/ed-1/?sp=3&q=Invented+William+Isaac+Fuld+Baltimore+Dispute+Talking+Ouija+Board+Planchette+Alphabet+Witch</id>
+        <id>https://www.loc.gov/resource/sn96076839/1920-06-25/ed-1/?sp=3&amp;q=Invented+William+Isaac+Fuld+Baltimore+Dispute+Talking+Ouija+Board+Planchette+Alphabet+Witch</id>
         <rel>1</rel>
         <text>
           WHO INVENTED OUIJA
@@ -1545,7 +1545,7 @@
         </text>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn84026749/1920-01-25/ed-1/?sp=32&q=Baby+Ghost+Spectral+Messages+Curran+Patience+Worth+Talking+Ouija+Board+Planchette+Alphabet+Witch</id>
+        <id>https://www.loc.gov/resource/sn84026749/1920-01-25/ed-1/?sp=32&amp;q=Baby+Ghost+Spectral+Messages+Curran+Patience+Worth+Talking+Ouija+Board+Planchette+Alphabet+Witch</id>
         <rel>1</rel>
         <text>
           SIX years ago Mrs. John H Curran, of St. Louis, a
@@ -1574,7 +1574,7 @@
         </text>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn86063381/1920-02-24/ed-1/?sp=1&q=Revelation+Lawsuit+Albert+Yost+Ouija+Board+Planchette+Alphabet+Witch</id>
+        <id>https://www.loc.gov/resource/sn86063381/1920-02-24/ed-1/?sp=1&amp;q=Revelation+Lawsuit+Albert+Yost+Ouija+Board+Planchette+Alphabet+Witch</id>
         <rel>1</rel>
         <text>
           REVELATION OF OUIJA
@@ -1605,7 +1605,7 @@
         </text>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn83030214/1920-11-14/ed-1/?sp=70&q=Invades+Britain+Ouija+Board+Planchette+Alphabet+Witch</id>
+        <id>https://www.loc.gov/resource/sn83030214/1920-11-14/ed-1/?sp=70&amp;q=Invades+Britain+Ouija+Board+Planchette+Alphabet+Witch</id>
         <rel>1</rel>
         <text>
           Ouija Board Invades Britain
@@ -1657,7 +1657,7 @@
         </text>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn84026749/1921-10-26/ed-1/?sp=22&q=Mental+Troubles+Phenomena+Mystisms+Ouija+Board+Planchette+Alphabet+Witch</id>
+        <id>https://www.loc.gov/resource/sn84026749/1921-10-26/ed-1/?sp=22&amp;q=Mental+Troubles+Phenomena+Mystisms+Ouija+Board+Planchette+Alphabet+Witch</id>
         <rel>1</rel>
         <text>
           8 the 0uga Rosn MA8
@@ -1714,7 +1714,7 @@
         </text>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn84024827/1922-06-06/ed-1/?sp=1&q=Boards+Sporting+Ouija+Board+Planchette+Alphabet+Witch</id>
+        <id>https://www.loc.gov/resource/sn84024827/1922-06-06/ed-1/?sp=1&amp;q=Boards+Sporting+Ouija+Board+Planchette+Alphabet+Witch</id>
         <rel>1</rel>
         <text>
           Ouija Boards Are
@@ -1743,29 +1743,103 @@
       </result>
       <!-- additional queries -->
       <result>
-        <id></id>
-        <rel></rel>
-        <text></text>
+        <id>https://www.loc.gov/resource/sn83030431/1920-01-25/ed-1/?sp=76&amp;q=Ouija+board+Mrs.+Curran</id>
+        <rel>0</rel>
       </result>
       <result>
-        <id>/</id>
-        <rel></rel>
-        <text></text>
+        <id>https://www.loc.gov/resource/sn88064020/1922-06-22/ed-1/?sp=13&amp;q=Ouija+board+alphabet+board&r=0.301,1.158,0.55,0.286,0</id>
+        <rel>1</rel>
+        <text>
+          How Do You Class Your Ouija Board?
+          C'
+          IIAT is a ouija hoar'd? The dic
+          tionary sa+.s its name is derived
+          from the French "oui," yes, and the
+          German "Ja." yes. It also says it is
+          a "board on which the alphabet and
+          various signs are written, used to ob
+          tain spiritualistic messages." But that
+          isn't what's wanted. What is it? Is it
+          a children's toy? Is it "sporting
+          goods"? Is it a "motor automatism"
+          whatever that is?
+          Anyway, Uncle Sam. who apparently
+          never has dallied with a ouija board.
+          mays it's "sporting goods"-just the
+          same as baseballs and ahlag rods.
+          a as 'ortlj Iooue yo Uncle
+          Samuel wants 10 per cent tax on the
+          hapless ouija board. But. apparently,
+          there lt a wide difference of opinion.
+          Anyway, the Sulrneme court has been
+          asked by a petition fliled by a IBalt
+          inmre manllltfacturing coIllpailny to apply
+          its profound learning to solving the
+          question of what is a iuija board.
+          The federal govertnment, with thnt
+          laik of sentirnentalit: for which It Is
+          noted, and with the bhlntni.es of the
+          tax collector. hilta determirlned sllch
+          boards are properly to be classed a
+          "sporting gooils." along with tennis
+          rackets, snnrshoes, lbaseball hat. golf
+          clubs, footballs, and similar articles.
+          The Baltimore colpalllly therefore
+          has asked the court to determine
+          whether the board Is. as the company
+          claims It to be, "a grade of motor au
+          tomatism. involving considerable sub
+          conscious action of intelligence," and
+          not "sporting goods."
+          If the boards are not exactly what
+          it claims, the manufacturer contends
+          a large part of those Intended for the
+          use of children shoold be classed as
+          childrem's tel.
+        </text>
       </result>
       <result>
-        <id>/</id>
-        <rel></rel>
-        <text></text>
+        <id>https://www.loc.gov/resource/sn84026749/1919-11-13/ed-1/?sp=8&amp;q=Ouija+board+Mrs.+Curran</id>
+        <rel>0</rel>
       </result>
       <result>
-        <id>/</id>
-        <rel></rel>
-        <text></text>
+        <id>https://www.loc.gov/resource/sn78000873/1892-01-14/ed-1/?sp=4&amp;q=Ouija+board+alphabet+board</id>
+        <rel>1</rel>
+        <text>
+          The Ouija Board.
+          The latest fad is the Ouija board (pro- i
+          liouneed weja,) or the fortune teller. It is
+          made mi the same principle as the plan j
+          chette hoard, and contains the letters of tile j
+          alphabet. In one corner is the word “yes,”
+          and in another “no.” In the other corners j
+          are pictures of the moon ami stars. On this
+          hoard rests a smaller one of peculiar shape.
+          standing on four legs. The operator places i
+          his or her hands on the smaller board, which, j
+          under the right influences will travel about.
+          presumably by electricity. Before opera- j
+          tions the board is rubbed down with a silk j
+          handkerchief. When all is in readint •ss the i
+          operator places his hands on the smaller
+          table, when questions are asked concerning 1
+          the one whose fortune is to be divined. It
+          is claimed that the board will correctly
+          spell out the name of your best girl or “fei
+          lar.” Consequently the ouija is in great de
+          mand among the young people. One in I
+          operation at the Dana Sarsaparilla last week
+          absorbed so much attention as to nearly im
+          pede business. Woodcock Son had a
+          quantity which sold like hot cakes, and
+          more have been ordered. The factories can
+          not manufacture them fast enough. Great
+          is the ouija.
+        </text>
       </result>
       <result>
-        <id>/</id>
-        <rel></rel>
-        <text></text>
+        <id>https://www.loc.gov/resource/sn83030431/1919-11-23/ed-1/?sp=72&amp;q=Ouija+board+Mrs.+Curran</id>
+        <rel>0</rel>
       </result>
     </results>
   </topic>
@@ -1773,7 +1847,7 @@
     <id>https://guides.loc.gov/chronicling-america-yellowstone</id>
     <results>
       <result>
-        <id>https://chroniclingamerica.loc.gov/lccn/sn83016555/1871-12-22/ed-1/seq-1/#words=Yellowstone+National+Park+Colter’s+Hell+Hayden+Expedition+Geological+Survey+Thomas+Moran+Jim+Bridger</id>
+        <id>https://chroniclingamerica.loc.gov/lccn/sn83016555/1871-12-22/ed-1/seq-1/#words=Yellowstone+National+Park+Colter&apos;s+Hell+Hayden+Expedition+Geological+Survey+Thomas+Moran+Jim+Bridger</id>
         <rel>1</rel>
         <text>
           A Great National Park.
@@ -1810,7 +1884,7 @@
         </text>
       </result>
       <result>
-        <id>https://chroniclingamerica.loc.gov/lccn/sn84026355/1896-02-29/ed-1/seq-9/#words=Yellowstone+National+Park+Colter’s+Hell+Hayden+Expedition+Geological+Survey+Thomas+Moran+Jim+Bridger</id>
+        <id>https://chroniclingamerica.loc.gov/lccn/sn84026355/1896-02-29/ed-1/seq-9/#words=Yellowstone+National+Park+Colter&apos;s+Hell+Hayden+Expedition+Geological+Survey+Thomas+Moran+Jim+Bridger</id>
         <rel>1</rel>
         <text>
           YELLOWSTONE
@@ -2215,7 +2289,7 @@
         </text>
       </result>
       <result>
-        <id>https://chroniclingamerica.loc.gov/lccn/sn83030214/1903-04-05/ed-1/seq-30/#words=Yellowstone+National+Park+Colter’s+Hell+Hayden+Expedition+Geological+Survey+Thomas+Moran+Jim+Bridger</id>
+        <id>https://chroniclingamerica.loc.gov/lccn/sn83030214/1903-04-05/ed-1/seq-30/#words=Yellowstone+National+Park+Colter&apos;s+Hell+Hayden+Expedition+Geological+Survey+Thomas+Moran+Jim+Bridger</id>
         <rel>1</rel>
         <text>
           SNOW .S DEEP .N YELLOWSTONE PARK, AND PRESENT ROOSEVELT MAY HAVE TO USE SK.S WHEN HE GETS f HER E
@@ -2264,7 +2338,7 @@
         </text>
       </result>
       <result>
-        <id>https://chroniclingamerica.loc.gov/lccn/sn95066012/1911-05-11/ed-1/seq-2/#words=Yellowstone+National+Park+Colter’s+Hell+Hayden+Expedition+Geological+Survey+Thomas+Moran+Jim+Bridger</id>
+        <id>https://chroniclingamerica.loc.gov/lccn/sn95066012/1911-05-11/ed-1/seq-2/#words=Yellowstone+National+Park+Colter&apos;s+Hell+Hayden+Expedition+Geological+Survey+Thomas+Moran+Jim+Bridger</id>
         <rel>1</rel>
         <text>
           IT""' Tl
@@ -2549,11 +2623,11 @@
         </text>
       </result>
       <result>
-        <id>https://chroniclingamerica.loc.gov/lccn/sn83030272/1915-10-31/ed-1/seq-57/#words=Yellowstone+National+Park+Colter’s+Hell+Hayden+Expedition+Geological+Survey+Thomas+Moran+Jim+Bridger</id>
+        <id>https://chroniclingamerica.loc.gov/lccn/sn83030272/1915-10-31/ed-1/seq-57/#words=Yellowstone+National+Park+Colter&apos;s+Hell+Hayden+Expedition+Geological+Survey+Thomas+Moran+Jim+Bridger</id>
         <rel>0</rel>
       </result>
       <result>
-        <id>https://chroniclingamerica.loc.gov/lccn/sn85058396/1918-12-07/ed-1/seq-12/#words=Yellowstone+National+Park+Colter’s+Hell+Hayden+Expedition+Geological+Survey+Thomas+Moran+Jim+Bridger</id>
+        <id>https://chroniclingamerica.loc.gov/lccn/sn85058396/1918-12-07/ed-1/seq-12/#words=Yellowstone+National+Park+Colter&apos;s+Hell+Hayden+Expedition+Geological+Survey+Thomas+Moran+Jim+Bridger</id>
         <rel>1</rel>
         <text>
           I Yellowstone Park Is a Veritable Garden of Edenfor
@@ -2714,7 +2788,7 @@
         </text>
       </result>
       <result>
-        <id>https://chroniclingamerica.loc.gov/lccn/sn88056159/1919-06-25/ed-1/seq-6/#words=Yellowstone+National+Park+Colter’s+Hell+Hayden+Expedition+Geological+Survey+Thomas+Moran+Jim+Bridger</id>
+        <id>https://chroniclingamerica.loc.gov/lccn/sn88056159/1919-06-25/ed-1/seq-6/#words=Yellowstone+National+Park+Colter&apos;s+Hell+Hayden+Expedition+Geological+Survey+Thomas+Moran+Jim+Bridger</id>
         <rel>1</rel>
         <text>
           6RCATCR YeCt0W5T0N£
@@ -2968,7 +3042,7 @@
         </text>
       </result>
       <result>
-        <id>https://chroniclingamerica.loc.gov/lccn/sn84023416/1920-09-02/ed-1/seq-2/#words=Yellowstone+National+Park+Colter’s+Hell+Hayden+Expedition+Geological+Survey+Thomas+Moran+Jim+Bridger</id>
+        <id>https://chroniclingamerica.loc.gov/lccn/sn84023416/1920-09-02/ed-1/seq-2/#words=Yellowstone+National+Park+Colter&apos;s+Hell+Hayden+Expedition+Geological+Survey+Thomas+Moran+Jim+Bridger</id>
         <rel>1</rel>
         <text>
           OIXG to "Colter's Hell" this sum-,
@@ -3255,7 +3329,7 @@
         </text>
       </result>
       <result>
-        <id>https://chroniclingamerica.loc.gov/lccn/sn86091197/1922-06-29/ed-1/seq-4/#words=Yellowstone+National+Park+Colter’s+Hell+Hayden+Expedition+Geological+Survey+Thomas+Moran+Jim+Bridger</id>
+        <id>https://chroniclingamerica.loc.gov/lccn/sn86091197/1922-06-29/ed-1/seq-4/#words=Yellowstone+National+Park+Colter&apos;s+Hell+Hayden+Expedition+Geological+Survey+Thomas+Moran+Jim+Bridger</id>
         <rel>1</rel>
         <text>
           Jim Bridger, discoverer of Yellowstone Park, whose stories no one
@@ -3380,35 +3454,347 @@
           of the park's fiftieth anniversary.
         </text>
       </result>
+      <!-- additional queries -->
       <result>
-        <id>/</id>
-        <rel></rel>
-        <text></text>
+        <id>https://www.loc.gov/resource/sn96090259/1913-05-09/ed-1/?sp=3&amp;q=Yellowstone+National+Park+Colter%27s+Hell</id>
+        <rel>1</rel>
+        <text>
+          YELLOWSTONE PARK.
+          At
+          Was
+          One Time the Region
+          Known
+          as "John Colter'* Hell."
+          It Is probable (hat few of the tour
+          ists who have visited the Yellowstone
+          National park knew that the place has
+          also been known as "John Colter's
+          Hell," nor were they likely to know
+          how the name originated.
+          After President Jelfersoi^ln 1S03
+          made the Louisiana purchase from
+          Nupoleon Bonaparte, for which $15,
+          000,000 was paid, it was decided to
+          send out from St Louis the Lewis
+          and Clark expedition for tbe purpose
+          of finding out something about tbe
+          newly acquired land lying between the
+          Mississippi river and the Pacific coast
+          John Colter was one of the privates
+          under Lewis and Clark. He was a
+          born adventurer, with an insatiable cu
+          riosity and the element of fear left out
+          of his makeup. When In 1806 the ex
+          plorlng party headed back from the
+          coast to St. Louis, Colter broke away
+          and all alone set out for the headwa
+          ters of the Missouri river.
+          Four years later there appeared at
+          St Louis a worn, ragged. Indian-like,
+          white man, who announced that he
+          was John Colter and finally succeeded
+          lu identifying himself as a member of
+          tne Ix?uis and Clark expedition.
+          Peo­
+          ple finally believed that he was John
+          Colter, but they would not believe the
+          stories he told.
+          One of Colter's prize stories was
+          about tbe most wonderful place In the
+          world, where steam came from the
+          earth and boiling water leaped clear to
+          the sky. There were diabolical fur
+          naces underground and bad smells. It
+          would have been the "abode of the
+          damned," be said, but for the fact that
+          he could discover no signs of human
+          beings for miles about.
+          It was a good story—too good to be
+          true. So tbe St Loulsans decided that
+          In
+          fact, the good people of St Louis—and
+          everybody else, for that matter
+          laughed over "John Colter's Hell" for
+          thirty-four years—until Bridger, tbe
+          noted scout, rediscovered tbe place and
+          confirmed everything that John Goiter
+          had said about it Chicago Inter
+          Ocean.
+          tne Wanderer had Imagined It all.
+        </text>
       </result>
       <result>
-        <id>/</id>
-        <rel></rel>
-        <text></text>
+        <id>https://www.loc.gov/resource/sn85053043/1937-12-17/ed-1/?sp=11&amp;q=Yellowstone+National+Park+Colter%27s+Hell</id>
+        <rel>0</rel>
       </result>
       <result>
-        <id>/</id>
-        <rel></rel>
-        <text></text>
+        <id>https://www.loc.gov/resource/sn86075293/1930-06-19/ed-1/?sp=3&amp;q=Yellowstone+National+Park+Colter%27s+Hell</id>
+        <rel>1</rel>
+        <text>
+          Park's Wonders Were Practically Unknown To The
+          Indians of The Northwest In The Early Days And The
+          Lewis And Clark Expedition Passed Within A Few
+          Miles of The Region Without Hearing Anything About It; Hunting There Was Considered Poor
+          Y ellowstone
+          (By W. W. CUEELT)
+          rriHE stories of the geysers and hot
+          I springs and other freaks of nature
+          K in Yellowstone national park were
+          60 years in the telling before the people
+          of America could be brought to believe
+          that they were as marvelous as they
+          were reputed to be. Even the Indians
+          who inhabited the territory surround
+          ing the wonderland had but little
+          knowledge of the country. When Cap
+          tain Clark of the Lewis and Clark ex
+          pedition passed down the Yellowstone
+          valley in July of 1806 he heard no word
+          from the Indians with whom he came
+          in contact of the strange country
+          which lay so close to his trail and
+          which he undoubtedly would have halt
+          ed to explore had he known of its ex
+          istence.
+          The name "Yellow Stone" was first
+          officially used by Lewis and Clark in
+          a report to President Jefferson re
+          garding the progress of their expedi
+          tion into the northwest and which
+          they forwarded from the Mandan vil
+          lages in Dakota in the spring of 1805
+          before proceeding on their Journey
+          westward. It was given as the name
+          of the principal tributary to the Mis
+          souri river, of which they had been
+          told by the Indians.
+          The name was used even before that
+          time, however, by David Thompson,
+          English geographer who later played
+          iS;
+          össsp!
+          mm
+          General Henry D. Washburn, an
+          early-day surveyor general of Montana
+          and the head of the official Washburn
+          Doane expedition to Yellowstone park
+          of 1870, the report of which caused
+          congress to set the region aside as a
+          great national park. Doane was a
+          lieutenant in the United States army
+          and was the head of the military escort
+          which attended the exploration party.
+          such an important part in the history
+          of northwestern Montana. He was
+          among the Mandan Indians in 1797
+          and learned from them of the Yellow
+          stone river and of its sources. The
+          data he ascertained was so complete
+          that it enabled him to estimate the
+          latitude and longitude of the river's
+          headwaters. It is a notable thing that
+          astronomical observations taken nearly
+          three-quarters of a century later proved
+          his estimates to be in error only 21
+          miles.
+          French Knew the River
+          There was nothing in the informa
+          tion he gleaned from the Indians, how
+          ever, to indicate that the physical
+          characteristics of the region were un
+          usual.
+          The Yellowstone river had even at
+          that time long been known to the
+          French traders of the northwest. They
+          called It "Roache Jaune," the English
+          translation of which is "Yellow Stone."
+          The French in turn had arrived at the
+          name by translating the Indian desig
+          nation of that meaning, which, accord
+          ing to Gen. Hiram M. Chittenden in
+          his admirable work on the history of
+          Yellowstone park, was, in the Minne
+          tree tongue, "Mi tsi a da zi," literally
+          "Rock Yellow River," which in the
+          French language became "Roche
+          Jaune" and "Pierre Jaune" and in Eng
+          lish "Yellow Rock" and Yellow Stone,"
+          now written Yellowstone.
+          This name could have originated no
+          where else than from the yellow color
+          ing of the walls of the grand canyon
+          in Yellowstone park, and seems to have
+          been the name applied to the river
+          by many of the Indian tribes of the
+          northwest, despite the fact that the
+          River Crows have since the earliest
+          times called the Yellowstone river the
+          Elk river.
+          When the white men came into the
+          northwest they found the Crow Indi
+          ans inhabiting the valleys of the Yel
+          lowstone and the Big Horn to the east
+          and south of the Yellowstone park.
+          The Blackfeet ranged to the north in
+          and around the headquarters of the
+          Missouri. Southwest of the park region
+          near the Teton mountains was the
+          country of the Bannocks and to the
+          southeast of the park, in the Wind
+          river valley, were the Shoshones.
+          The wonders of Yellowstone park
+          were better known among the trappers
+          of the northwest from 1830 to 1850
+          than they were to the residents of the
+          region during the two decades from
+          1850 to 1870. When the fur trade
+          waned about 1850 the discovery of gold
+          in California and later In Montana
+          drew interest and attention elsewhere.
+          The geysers and hot springs were for
+          gotten and those few prospectors who
+          saw them in their search for gold gave
+          them but slight attention.
+          Described In 1834
+          Joe Meek was a
+          In 1834, Warren Angus Ferris, a
+          clerk for the American Fur company,
+          visited the Firehole basin of the park
+          and wrote a description of it. He had
+          heard of these wonders irom trappers
+          at the rendezvous which met at the
+          Great Bend of the Yellowstone where
+          the city of Livingston now stands.
+          With two Indian guides he went alone
+          to investigate the region and he records
+          that his guides were even more amazed
+          than he at what they saw.
+          In 1852, Father DeSmet, in a letter,
+          made reference to the park region and
+          gave the first correct geographical lo-j
+          cation of it. He did not say that he
+          had visited it himself, but quoted
+          James Bridger regarding it.
+          Brldger's knowledge of the park
+          dates back at least to 1830 and prob
+          ably before that. During the years
+          immediately following that he had
+          thoroughly explored the region and
+          could give an accurate description of
+          it. Unfortunately. Bridger had a repu
+          tation for exaggeration which his hear
+          ers always remembered when he told
+          of the wonders of the Yellowstone.
+          The first government expedition into
+          the park region was that headed by
+          Capt. W. F. Reynolds of the corps of
+          topographical engineers of the army
+          in 1859. Unfortunately, it was unable
+          to penetrate the upper Yellowstone
+          country because of the snow and de
+          parted to carry out another mission
+          farther north, hoping to return at
+          some future time. This plan was
+          thwarted by the outbreak of the Civil
+          war which effectually ended govern
+          ment activity along that line for a
+          number of years.
+          In August, 1863, a party of 40 pros
+          pectors headed by Walter W. DeLacy
+          started from Virginia City to seek gold
+          in the park region. Members of the
+          party discovered Shoshone and Lewis
+          lakes, one of the geyser basins and
+          numerous hot springs. They spent two
+          months in that section. Another party
+          of prospectors in the same year visited
+          the park and named Cache creek and
+          Bear creek.
+          David E. Folsom, a pioneer of Mon
+          tana who accompanied C. W. Cook and
+          William Peterson in a 36-day explora
+          tion trip through the Yellowstone na
+          tional park in 1869 which was the start
+          of the successful movement to have the
+          ground set aside by congress as a na
+          tional park.
+        </text>
       </result>
       <result>
-        <id>/</id>
-        <rel></rel>
-        <text></text>
+        <id>https://www.loc.gov/resource/sn86075293/1928-08-09/ed-1/?sp=3&amp;q=Yellowstone+National+Park+Colter%27s+Hell</id>
+        <rel>0</rel>
       </result>
       <result>
-        <id>/</id>
-        <rel></rel>
-        <text></text>
-      </result>
-      <result>
-        <id>/</id>
-        <rel></rel>
-        <text></text>
+        <id>https://www.loc.gov/resource/sn82016014/1922-11-08/ed-1/?sp=4&amp;q=Yellowstone+National+Park+Colter%27s+Hell</id>
+        <rel>1</rel>
+        <text>
+          Oldest National Park.
+          Incidentally, the monograph settles
+          the old dispute of whether Hot
+          Springs or the Yellowstone is the old
+          est of the national parks. Hot
+          Sprines was set aside as a reservation
+          in 1882, and It was forty years later
+          that the Yellowstone National fcark
+          was created by act of congress. Yet
+          the latter was the first true national
+          park in the sense that it was to be a
+          region developed for th pleasure of
+          the public. Hot SpringM was raereiy
+          reserved to prevent the medicinal wa
+          ters from being exploited by private
+          ownership. -v.
+          The establishing of Yellovrstone N
+          tional park was a romantic episode.
+          The marvels of that region were dis
+          covered in 1807 by John Colter, a
+          hunter who had been attached to the
+          Lewis and Clark expedition. It was
+          the fate of Colter and tho other white
+          men who went into the Yellowstone
+          district during the next half century
+          to be disbelieved when they told their
+          stories of the spoutingwater and mud
+          from the geysers. In fact, the region
+          was at firut derisively called "Col
+          ters Hell."
+          In 1869 A reliable expedition of
+          Montanans -explored the Yellowstone,
+          verified the preceding reports of it,
+          and published the discoveries. This
+          was followed tho next year by the
+          exploration made by the Washbnrn
+          Doane expedition, which took in a
+          military escort detailed by the waf de
+          partment. This expedition brought
+          about the creation of the park, and
+          gave bit tH to the national park idea
+          which has sipce worked out in the
+          national park system as we mow it
+          today.
+          When the members of the Wash-
+          biirn-Dotns expedition saw the won
+          ders of the Yellowstone, they dis
+          cussed among themselves the sugges
+          tion that it would bo prof itable to pick
+          up ownership to th i land surrounding
+          the geysers and other phenomena and
+          exploit he place as a commercial ven
+          ture. Such an act would not have
+          been regarded so reprehensible then
+          as it would now. But one of the
+          members of the party expressed the
+          opinion that such a wonderland ought
+          never to be allowed to pass Into pri
+          vate ownership at all but should be
+          held In perpetuity for the whole
+          population. The others agreed to this
+          at once. snoT the members of the ex
+          pedition later took the lead Jn the
+          movement which resulted in the crea
+          tion of the Yellowstone National park
+          in 1872.
+        </text>
       </result>
     </results>
   </topic>
